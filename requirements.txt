@@ -1,0 +1,8 @@
+ijson
+python-dotenv
+pymongo
+openai
+gradio
+tenacity
+urlopen
+
