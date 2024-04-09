@@ -5,4 +5,5 @@ openai
 gradio
 tenacity
 urlopen
+azure-search-documents
 
